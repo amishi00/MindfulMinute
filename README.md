@@ -20,6 +20,10 @@ Connecting multi-word symptoms from the form to our original list of symptoms. W
 
 Building comprehensive lists of symptoms for bipolar and depression that allow for clear distinctions between the two disorders with the use of reliable resources. Since depression and bipolar are inherently very similar in terms of symptoms experienced we needed to make sure to emphasize symptoms that are unique to each illness as well as the hypomanic symptoms seen in bipolar patients.
 
+## Collaboration/Feedback
+As with all NLP models, this one is not perfect and might misinterpret the sentiments based on the words literal meaning. Therefore, we are always looking for ways to improve the algorithm and provide a more accurate result. If you would like to contribute or provide feedback, please reach out to me at amishigupta2809@gmail.com!
+
 ## Website and Devpost
 Our code was uploaded onto the mindful minute website which can be accessed here: https://mindfulminuteaia.wixsite.com/mindful-minute.
 Our solution secured us 1st place in the mental health track in the UniHacks 2023 hackathon. The devpost can be accessed here: https://devpost.com/software/mindful-minute-vbrhtq.
+The website and algorithm was made in collaboration with Archita Khaire and Isha Mahadeshwar.
